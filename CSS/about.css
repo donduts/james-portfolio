@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+nav .logo{
+    position: absolute;
+    top: 740%;
+    left: 6%;
+}
+.about{
+    color: aliceblue;
+    position: absolute;
+    top: 19.5%;
+    left: 13%;
+    font-size: 25px;
+    font-family: cursive;
+}
+img{
+    height: 500px;
+    width: 450px;
+    position: absolute;
+    top: 27%;
+    left: 5%;
+}
+.me p{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 25px;
+    position: absolute;
+    top: 24%;
+    left: 33%;
+}
+.me h1{
+    color: skyblue;
+    font-family: cursive;
+    font-size: 25px;
+    position: absolute;
+    top: 25%;
+    left: 47%;
+    
+}
+
+.me p{
+    border-bottom: 2px solid #ffffff;
+}
+
+.des{
+    color: aliceblue;
+    font-family: cursive;
+    position: absolute;
+    top: 29%;
+    left: 33%;
+}
+.personal {
+    color: azure;
+    font-family: cursive;
+    position: fixed;
+    top: 38%;
+    left: 35%;
+}
+.personal p:hover{
+   font-size: x-large;
+   cursor: pointer;
+}
+
+.p{
+    color: azure;
+    font-family: cursive;
+    position: fixed;
+    top: 40%;
+    left: 55%;
+}
+.p2{
+    color: azure;
+    font-family: cursive;
+    position: fixed;
+    top: 44.5%;
+    left: 55%;
+}
+
+.skill{
+    color: azure;
+    font-family: cursive;
+    position: fixed;
+    top: 57%;
+    left: 35%;
+
+}
+.skill p:hover{
+    font-size: x-large;
+}
+.sk{
+    color: skyblue;
+    font-family: cursive;
+    position: absolute;
+    font-size: 25px;
+    top: 50%;
+    left: 33.5%;    
+}
+.sk p{
+    border-bottom: 2px solid white;
+}
+.ll{
+    position: fixed;
+    top: 59%;
+    left: 55%;
+}
+.l{
+    position: fixed;
+    top: 63.5%;
+    left: 55%;
+}
+.resume{
+    position: absolute;
+    top: 75%;
+    left: 45%;
+    font-family: cursive;
+}
+.resume a button{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+}
+
+
+

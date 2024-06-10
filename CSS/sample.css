@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(10,10,10);
+}
+.draw{
+    color: azure;
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+.img{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    margin-top: 0%;
+    margin-left: 5%;
+    gap: 190px;
+}
+.hw:hover{
+    height: 150%;
+}
+.apple:hover{
+    height: 150%;
+}
+.gd:hover{
+    height: 150%;
+}
+.works{
+    color: azure;
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20%;
+}
+.workimg{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-left: 20%;
+    gap: 200px;
+}
+.des{
+    color: azure;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 27%;
+    display: flex;
+    gap: 550px;
+}
+

@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+.name{
+    color: whitesmoke;
+    position: absolute;
+    font-size: 30px;
+    font-family: cursive;
+    top: 35%;
+    left: 15%;
+}
+.pro{
+    color: rgb(200, 209, 216);
+    position: absolute;
+    font-family: cursive;
+    font-size: 25px;
+    top: 40%;
+    left: 15%;
+    
+}
+.img{
+    position: absolute;
+    top: 10%;
+    right: 0%;
+    height: 90%;
+}
+
+nav{
+    position: abs;
+    top: 0;
+    left: 0;
+}
+
+nav ul{
+    display: flex;
+    position: absolute;
+    top: 43%;
+    left: 11.5%;
+    list-style-type: none;
+    
+}
+nav ul li a{
+    line-height: 80px;
+    color: #746d6f;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+nav ul li a:hover{
+    background: rgba(202, 204, 207, 0.7);
+    border-radius: 3px;
+}
+.logos {
+    display: flex;
+    position: absolute;
+    top: 490px;
+    left: 280px;
+    gap: 10px; 
+}
+.logos img{
+    height: 30px;   
+}
+
+.logos img:hover{
+    background: rgba(202, 204, 207, 0.7);
+    border-radius: 3px;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+
+.wh{
+    color: azure;
+    font-family: cursive;
+    margin-top: 5%;
+}
+.col{
+    color: rgb(222, 233, 243);
+}
+.wh h3:hover{
+    font-size:x-large;
+    cursor: pointer;
+}
